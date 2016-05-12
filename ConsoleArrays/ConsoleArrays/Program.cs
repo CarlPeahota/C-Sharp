@@ -10,7 +10,7 @@ namespace ConsoleArrays
     {
         static void Main(string[] args)
         {
-
+            /*
             int[] numbers = new int[5];
             numbers[0] = 5;
             numbers[1] = 10;
@@ -20,6 +20,15 @@ namespace ConsoleArrays
 
             Console.WriteLine(numbers[1]);
             Console.ReadLine();
+            */
+
+
+            /* thes 2 lines are NOT working
+            int[] numbers = { 5, 10, 15, 20, 25, 30 };
+
+            Console.WriteLine(numbers[]);
+            */
+
         }
     }
 }
